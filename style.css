@@ -1,0 +1,15 @@
+.question__item {
+  margin: 10px 0;
+}
+
+.question__item.correct {
+  background-color: green;
+}
+
+.question__item.wrong {
+  background-color: red;
+}
+
+.questions {
+  height: 60px;
+}
